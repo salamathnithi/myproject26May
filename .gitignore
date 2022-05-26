@@ -1,0 +1,12 @@
+
+app.log
+file1.txt
+old_order.class
+old_order.java
+*.java
+*.txt
+*.log
+*.class
+/dirName
+
+file2
